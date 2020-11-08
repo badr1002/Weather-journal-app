@@ -60,6 +60,7 @@ body {
 }
 
 #zip {
+    border-radius: 40px;
     text-align: center;
 }
 
@@ -107,6 +108,8 @@ textarea {
 .myInput {
     width: 500px;
     height: 150px;
+    border-radius: 40px;
+    text-align: center;
 }
 
 /* Reset style for HTML element on active to have no border*/
